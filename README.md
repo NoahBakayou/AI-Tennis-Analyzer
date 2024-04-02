@@ -10,7 +10,7 @@ Welcome to my AI Tennis Analyzer, an advanced machine learning and deep learning
 
 - **Custom Model Training on A100 GPUs**: Fine-tuned YOLOv5 on a custom dataset to improve tennis ball tracking accuracy. Training was performed on NVIDIA A100 GPUs through Google Colab and Jupyter Notebooks, ensuring rapid processing and superior model performance.
 
-- **Keypoint Extraction with CNNs**: Employed Convolutional Neural Networks (CNNs) within PyTorch to accurately extract keypoints from players and equipment, facilitating detailed motion analysis and player positioning strategies.
+- **Keypoint Extraction with CNNs**: Employed Convolutional Neural Networks (CNNs) within PyTorch to accurately extract keypoints from the tennis court, facilitating detailed motion analysis and player positioning strategies.
 
 - **Advanced Object Tracking**: Integrated sophisticated object tracking algorithms to maintain continuity across frames, providing seamless analysis of player movements and ball trajectories throughout rallies.
 
