@@ -8,7 +8,7 @@ Welcome to my AI Tennis Analyzer, an advanced machine learning and deep learning
 
 - **Object Detection with YOLOv8**: Utilized the cutting-edge Ultralytics YOLOv8 model for high-precision object detection within tennis matches, enabling the identification and classification of key elements in real-time.
 
-- **Custom Model Training on A100 GPUs**: Fine-tuned YOLOv8 on a custom dataset to cater specifically to the nuances of tennis matches. Training was performed on NVIDIA A100 GPUs through Google Colab and Jupyter Notebooks, ensuring rapid processing and superior model performance.
+- **Custom Model Training on A100 GPUs**: Fine-tuned YOLOv5 on a custom dataset to improve tennis ball tracking accuracy. Training was performed on NVIDIA A100 GPUs through Google Colab and Jupyter Notebooks, ensuring rapid processing and superior model performance.
 
 - **Keypoint Extraction with CNNs**: Employed Convolutional Neural Networks (CNNs) within PyTorch to accurately extract keypoints from players and equipment, facilitating detailed motion analysis and player positioning strategies.
 
