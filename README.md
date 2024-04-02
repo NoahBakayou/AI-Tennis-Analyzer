@@ -2,7 +2,7 @@
 
 # AI Tennis Analyzer
 
-Welcome to the AI Tennis Analyzer, an advanced machine learning and deep learning project designed to revolutionize how we understand and analyze tennis. Leveraging state-of-the-art technologies, this project offers comprehensive insights into tennis matches by detecting objects in images and videos, tracking objects across frames, analyzing detection data, and employing data-driven methodologies for enhanced feature development.
+Welcome to my AI Tennis Analyzer, an advanced machine learning and deep learning project designed to revolutionize how we understand and analyze tennis. Leveraging state-of-the-art technologies, this project offers comprehensive insights into tennis matches by detecting objects in images and videos, tracking objects across frames, analyzing detection data, and employing data-driven methodologies for enhanced feature development.
 
 ## Features
 
