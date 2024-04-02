@@ -30,4 +30,3 @@ Welcome to my AI Tennis Analyzer, an advanced machine learning and deep learning
 - **OpenCV (cv2)**: For all video reading, processing, and saving needs.
 - **Pandas**: For data analysis and manipulation, enabling effective feature development and insights extraction.
 - **Object Tracking Algorithms**: To track the movement of players and the ball across video frames.
-- **Data Analysis Tools**: For extracting insights and guiding feature development.
