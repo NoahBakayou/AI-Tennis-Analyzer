@@ -29,4 +29,4 @@ Welcome to my AI Tennis Analyzer, an advanced machine learning and deep learning
 - **Google Colab & Jupyter Notebooks**: Flexible and powerful platforms for developing and executing deep learning models.
 - **OpenCV (cv2)**: For all video reading, processing, and saving needs.
 - **Pandas**: For data analysis and manipulation, enabling effective feature development and insights extraction.
-- **Object Tracking Algorithms**: To track the movement of players and the ball across video frames.
+- **Interpolation Object Tracking Algorithms**: To track the movement of players and the ball across video frames.
